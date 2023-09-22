@@ -4,5 +4,8 @@ const clicked1 = () =>{
 }
 
 const clicked2 = () =>{
-    window.location.href="WWE.html"
+    window.location.href="WWE3.html"
   }
+
+
+ 
